@@ -1,0 +1,5 @@
+D:\GLADOS\Cwiczenie 8\Cwiczenie 8\bin\Debug\Cwiczenie 8.exe.config
+D:\GLADOS\Cwiczenie 8\Cwiczenie 8\bin\Debug\Cwiczenie 8.exe
+D:\GLADOS\Cwiczenie 8\Cwiczenie 8\bin\Debug\Cwiczenie 8.pdb
+D:\GLADOS\Cwiczenie 8\Cwiczenie 8\obj\Debug\Cwiczenie 8.exe
+D:\GLADOS\Cwiczenie 8\Cwiczenie 8\obj\Debug\Cwiczenie 8.pdb
